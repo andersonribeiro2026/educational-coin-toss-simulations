@@ -19,13 +19,13 @@ This repository contains two animations that illustrate:
 ### Relative frequency analysis
 
 <p align="center">
-  <img src="media/relative_frequency.png" width="70%">
+  <img src="media/relative_frequency.gif" width="70%">
 </p>
 
 ### Histogram of relative frequencies
 
 <p align="center">
-  <img src="media/histogram.png" width="70%">
+  <img src="media/histogram.gif" width="70%">
 </p>
 
 
@@ -33,9 +33,13 @@ This repository contains two animations that illustrate:
 
 ### The first animation illustrates
 
+### The first animation illustrates
+
 - cumulative relative frequency;
 - expected value;
-- theoretical confidence bands;
+- theoretical ±1σ confidence bands;
+- growth of σ(Sₙ) = √n;
+- growth of σ(N_heads) = √n/2;
 - convergence predicted by the Law of Large Numbers.
 
 ### The second animation illustrates
