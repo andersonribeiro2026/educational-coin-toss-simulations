@@ -33,8 +33,6 @@ This repository contains two animations that illustrate:
 
 ### The first animation illustrates
 
-### The first animation illustrates
-
 - cumulative relative frequency;
 - expected value;
 - theoretical ±1σ confidence bands;
